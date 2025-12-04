@@ -9,4 +9,4 @@ Return the list of all users that were added through POST
 You may use the Gin framework or the standard library.  
 
 I have used Go Version 1.24.5  
-You can start the server simlply using the command "go run main.go" inside the folder.  
+You can start the server simply using the command "go run main.go" inside the folder.  
